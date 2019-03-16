@@ -20,7 +20,7 @@ itchat：控制微信的第三方库
 #### 效果展示
 以下截图显示的撤回消息类型依次是文字消息、微信自带表情、图片、语音、定位地图、名片、公众号文章、音乐、视频。有群里撤回的，也有个人号撤回的。
 ![撤回1](https://github.com/Brucepk/pk.github.io/blob/master/%E6%92%A4%E5%9B%9E1.jpg)
-![撤回1](https://github.com/Brucepk/pk.github.io/blob/master/%E6%92%A4%E5%9B%9E2.jpg)
+![撤回2](https://github.com/Brucepk/pk.github.io/blob/master/%E6%92%A4%E5%9B%9E2.jpg)
 
 
 
